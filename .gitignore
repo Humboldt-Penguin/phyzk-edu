@@ -6,6 +6,7 @@ scrap/
 
 # Zensical
 site/build/
+site/.cache/
 
 
 
