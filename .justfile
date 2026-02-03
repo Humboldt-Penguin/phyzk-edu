@@ -71,25 +71,10 @@ update-lockfile:
 
 
 
-[group("Test")]
-[doc("Run tests.")]
-test:
-    @# Note that we use `uv run` as opposed to `uv tool run` since the tool in question (pytest) should NOT be isolated from the project...
-    @#     [Excerpt from docs:] "If you are running a tool in a project and the tool requires that your project is installed, e.g., when using pytest or mypy, you'll want to use uv run instead of uvx. Otherwise, the tool will be run in a virtual environment that is isolated from your project."
-    @# For more info/tips/guidance, search the docs for 'pytest': https://docs.astral.sh/uv/guides/tools/#running-tools
-    uv run -- pytest tests/
-
-[group("Test")]
-[doc("Run tests, do not suppress print statements.")]
-test-verbose:
-    uv run -- pytest tests/ -s
-
-# TODO: change this to `uv run` (see comments in `test` recipe)
-# [group("Test")]
-# [doc("Check static types with `mypy`.")]
-# type-check target=".":
-#     uvx mypy {{target}}
-
+[group("Site")]
+[doc("Start the live-reloading docs server locally (see: http://localhost:8000/ ).")]
+serve:
+    uv run -- zensical serve --config-file site/zensical.toml -o
 
 
 
@@ -112,7 +97,8 @@ _clean_python:
 
 # Clean up website build files.
 _clean_site:
-    rm -rf docs/site/
+    rm -rf site/build/
+    rm -rf site/.cache/
 
 # Clean up all build files.
 _clean_build:
