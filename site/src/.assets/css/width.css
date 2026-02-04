@@ -1,0 +1,4 @@
+/* Make the page wider. */
+.md-grid {
+    max-width: 1550px;
+}
