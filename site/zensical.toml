@@ -25,7 +25,7 @@ extra_css = [".assets/css/width.css"]
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
     {"Home" = [
-        {"Home" = [
+        {"Overview" = [
             "index.md",
             {"Extracurricular" = [
                 {"Interested in Research?" = "home/ec/research.md"},
@@ -38,14 +38,15 @@ nav = [
     ]},
 
     {"PHY-203" = [
-        "203/index.md",
+        {"Overview" = [
+            "203/index.md",
+            {"Syllabus" = "203/syllabus.md"}
+        ]},
     ]},
-    {"PHY-205" = [
-        "205/index.md",
-    ]},
-    {"PHY-206" = [
-        "206/index.md",
-    ]},
+    # {"PHY-205" = [
+    # ]},
+    # {"PHY-206" = [
+    # ]},
 ]
 
 

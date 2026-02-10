@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Overview"
 # hide:
 #   - toc
 ---
@@ -13,16 +13,13 @@ title: "Home"
 
 ## Contact Info
 
-Zain Kamal — [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu)
+Zain Kamal — [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu) &nbsp; &nbsp; *(I don't check Canvas messages)*
 
-For now, all communications are via email. In the future, I'll set up a Google Group.
-
+==at the start of your email, please include: your netid, course # (e.g. "PHY-203"), and section #. Thanks :)==
 
 
 &nbsp;
 
 ## Office Hours
 
-Please shoot me an email to
-
-==at the start of your email, please include: your netid, course # (e.g. "PHY-203"), and section #. Thanks :)==
+Please shoot me an email to... lel
