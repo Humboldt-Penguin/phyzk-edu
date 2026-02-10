@@ -44,7 +44,7 @@ activate-devshell:
     nix develop -c {{user_shell}}
 
 [group("Development shell via Nix package manager")]
-[doc("Update flake. (check for `uv` updates in nixpkgs here: https://github.com/NixOS/nixpkgs/blob/nixpkgs-unstable/pkgs/by-name/uv/uv/package.nix )")]
+[doc("Update flake -- you should also update any instances of `astral-sh/setup-uv@v7` with the new `version`.")]
 update-flake:
     nix flake update
 

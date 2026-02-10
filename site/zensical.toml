@@ -1,7 +1,7 @@
 [project]
 
-site_name = "Physics Labs/Recitations"
-site_description = "Physics lab/recitation coursework."
+site_name = "Physics Labs/Recitations (Spring 2025)"
+site_description = "Coursework for Rutgers Physics labs/recitations."
 site_author = "Zain Kamal"
 
 # The site_url is the canonical URL for your site. When building online
