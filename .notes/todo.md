@@ -1,2 +1,1 @@
-- [ ] finish shortening `zensical.toml`
 - [ ] just create something for phy203, you fucker!!! GET AN MVP OUT THE DOOR ASAP, WORRY ABOUT CONTENT LATER!!!
