@@ -58,10 +58,19 @@ extra_javascript = [
     "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"
 ]
 
+
+
+## LaTeX
 [project.markdown_extensions.pymdownx.arithmatex]
 generic = true
-
 [project.markdown_extensions.attr_list]
+
+
+## "Caret, Mark, & Tilde" (highlighting, strikethrough, super/subscripts)
+##     https://zensical.org/docs/setup/extensions/python-markdown-extensions/#caret-mark-tilde
+[project.markdown_extensions.pymdownx.caret]
+[project.markdown_extensions.pymdownx.mark]
+[project.markdown_extensions.pymdownx.tilde]
 
 
 
@@ -130,11 +139,6 @@ features = [
     # below the header for viewports above 1220px, but remain as-is on mobile.
     # https://zensical.org/docs/setup/navigation/#navigation-tabs
     "navigation.tabs",
-
-    # A back-to-top button can be shown when the user, after scrolling down,
-    # starts to scroll up again.
-    # https://zensical.org/docs/setup/navigation/#back-to-top-button
-    "navigation.top",
 
     # When search highlighting is enabled and a user clicks on a search result,
     # Zensical will highlight all occurrences after following the link.
