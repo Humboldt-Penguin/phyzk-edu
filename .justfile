@@ -74,7 +74,7 @@ update-lockfile:
 [group("Site")]
 [doc("Start the live-reloading docs server locally (see: http://localhost:8000/ ).")]
 serve:
-    uv run -- zensical serve --config-file site/zensical.toml -o
+    uv run -- zensical serve --config-file site/zensical.toml
 
 
 

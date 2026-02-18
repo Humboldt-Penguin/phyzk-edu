@@ -12,9 +12,6 @@ site_url = "https://edu.phyzk.net/"
 docs_dir = "src"
 site_dir = "build"
 
-extra_css = [".assets/css/width.css"]
-# extra_javascript = ["javascripts/extra.js"]
-
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
 # If you decide not to define a navigation here then Zensical will simply
@@ -40,7 +37,13 @@ nav = [
     {"PHY-203" = [
         {"Overview" = [
             "203/index.md",
-            {"Syllabus" = "203/syllabus.md"}
+            {"Meta" = [
+                {"Syllabus" = "203/meta/syllabus.md"},
+                {"Extra Resources" = "203/meta/resources.md"},
+            ]},
+            {"Weekly" = [
+                {"Week 4" = "203/week/4.md"},
+            ]},
         ]},
     ]},
     # {"PHY-205" = [
@@ -50,6 +53,30 @@ nav = [
 ]
 
 
+
+
+
+extra_css = [
+    ".assets/css/width.css"
+]
+extra_javascript = [
+    ".assets/javascripts/mathjax.js",
+    "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"
+]
+
+
+
+## LaTeX
+[project.markdown_extensions.pymdownx.arithmatex]
+generic = true
+[project.markdown_extensions.attr_list]
+
+
+## "Caret, Mark, & Tilde" (highlighting, strikethrough, super/subscripts)
+##     https://zensical.org/docs/setup/extensions/python-markdown-extensions/#caret-mark-tilde
+[project.markdown_extensions.pymdownx.caret]
+[project.markdown_extensions.pymdownx.mark]
+[project.markdown_extensions.pymdownx.tilde]
 
 
 
@@ -119,11 +146,6 @@ features = [
     # https://zensical.org/docs/setup/navigation/#navigation-tabs
     "navigation.tabs",
 
-    # A back-to-top button can be shown when the user, after scrolling down,
-    # starts to scroll up again.
-    # https://zensical.org/docs/setup/navigation/#back-to-top-button
-    "navigation.top",
-
     # When search highlighting is enabled and a user clicks on a search result,
     # Zensical will highlight all occurrences after following the link.
     # https://zensical.org/docs/setup/search/#search-highlighting
@@ -132,14 +154,14 @@ features = [
 ]
 
 [[project.theme.palette]]
-scheme = "default"
-toggle.icon = "lucide/sun"
-toggle.name = "Switch to dark mode"
-
-[[project.theme.palette]]
 scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
+
+[[project.theme.palette]]
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
 
 # [project.theme.font]
 # text = "Inter"
