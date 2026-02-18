@@ -37,7 +37,13 @@ nav = [
     {"PHY-203" = [
         {"Overview" = [
             "203/index.md",
-            {"Syllabus" = "203/syllabus.md"}
+            {"Meta" = [
+                {"Syllabus" = "203/meta/syllabus.md"},
+                {"Extra Resources" = "203/meta/resources.md"},
+            ]},
+            {"Weekly" = [
+                {"Week 4" = "203/week/4.md"},
+            ]},
         ]},
     ]},
     # {"PHY-205" = [
