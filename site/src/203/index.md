@@ -1,29 +1,32 @@
-# General Physics 1 &nbsp; — &nbsp; Recitation
-
+---
+title: "General Physics 1 &nbsp; — &nbsp; Recitation"
 ---
 
-## Sections
+## [1] Announcements
 
-- Section 29: Wednesday, 8:30am – 9:50am, LSH-B116 (Livingston)
-- Section 23: Wednesday, 2:00pm - 3:20pm, FOR-191B (Douglass)
-
-
----
-
-## Recitation Schedule
-
-| [Week] |  [Date]  | [Topic]                |
-| :----: | :------: | :--------------------- |
-|   1    | ~~1/28~~ | Vectors; 1D Kinematics |
-|   2    | ~~2/4~~  | 2D Kinematics          |
-|   3    | ~~2/11~~ | Newton's Laws          |
-|   4    |   2/18   | Circular Motion        |
-|   5    |   2/25   | TBA                    |
+| [Date] | [Title/Link]                                     |
+| :----- | :----------------------------------------------- |
+| 2/22   | [1. Website & Study Sessions](./announcements/1.md) |
 
 
 ---
 
-## Links
+## [2] Recitation Schedule
 
-- [Canvas](https://rutgers.instructure.com/courses/381335)
-- [Gradebook](https://general.physics.rutgers.edu/cgi/student.pl?203&semester=spring2026)
+| [Week] |  [Date]  | [Topic]                        |
+| :----: | :------: | :----------------------------- |
+|   1    | ~~1/28~~ | Vectors; 1D Kinematics         |
+|   2    | ~~2/4~~  | 2D Kinematics                  |
+|   3    | ~~2/11~~ | Newton's Laws                  |
+|   4    | ~~2/18~~ | Circular Motion |
+|   5    |   2/25   | [Energy](./week/5.md)          |
+
+<!-- |   4    | ~~2/18~~ | [Circular Motion](./week/4.md) | -->
+
+---
+
+## [3] Quick Links
+
+- [Syllabus](./meta/syllabus.md) *(absence/make-up policy)*
+- [Canvas](https://rutgers.instructure.com/courses/381335){ target="_blank" rel="noopener noreferrer" }
+- [Gradebook](https://general.physics.rutgers.edu/cgi/student.pl?203&semester=spring2026){ target="_blank" rel="noopener noreferrer" }
