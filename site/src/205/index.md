@@ -1,5 +1,13 @@
 ---
 title: "General Physics 1 &nbsp; — &nbsp; Lab"
+hide:
+  - toc
+---
+
+---
+
+==For helpful resources regarding the main lecture/exams/recitations, check out my [recitation page](../203/).==
+
 ---
 
 ## [1] Announcements
@@ -35,6 +43,6 @@ title: "General Physics 1 &nbsp; — &nbsp; Lab"
 
 ## [3] Quick Links
 
-- [Syllabus](./meta/syllabus.md) *(absence/make-up policy)*
-- [Canvas](https://rutgers.instructure.com/courses/381575){ target="_blank" rel="noopener noreferrer" } *(announcements)*
-- [Gradebook](https://gbook.physics.rutgers.edu/gbook/student.pl?205&semester=spring2026){ target="_blank" rel="noopener noreferrer" } *(lab/quiz grades)*
+- [Syllabus](./meta/syllabus.md) — absence/make-up policy
+- [Canvas *[external link]*](https://rutgers.instructure.com/courses/381575){ target="_blank" rel="noopener noreferrer" } — course-wide info/announcements
+- [Gradebook *[external link]*](https://gbook.physics.rutgers.edu/gbook/student.pl?205&semester=spring2026){ target="_blank" rel="noopener noreferrer" } — lab/quiz grades

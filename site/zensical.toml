@@ -34,7 +34,7 @@ nav = [
     {"PHY-203" = [
         {"Overview" = [
             "203/index.md",
-            {"Meta" = [
+            {"Course Info" = [
                 {"Syllabus" = "203/meta/syllabus.md"},
                 {"Helpful Resources" = "203/meta/resources.md"},
             ]},
@@ -50,7 +50,7 @@ nav = [
     {"PHY-205" = [
         {"Overview" = [
             "205/index.md",
-            {"Meta" = [
+            {"Course Info" = [
                 {"Syllabus" = "205/meta/syllabus.md"},
             ]},
             {"Announcements" = [

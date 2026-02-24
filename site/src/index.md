@@ -1,7 +1,7 @@
 ---
 title: "Overview"
-# hide:
-#   - toc
+hide:
+  - toc
 ---
 
 <!-- Don't display "title", but keep the "title" metadata in yaml or else page title becomes "index"

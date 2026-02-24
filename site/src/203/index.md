@@ -1,5 +1,7 @@
 ---
 title: "General Physics 1 &nbsp; — &nbsp; Recitation"
+hide:
+  - toc
 ---
 
 ## [1] Announcements
@@ -27,6 +29,6 @@ title: "General Physics 1 &nbsp; — &nbsp; Recitation"
 
 ## [3] Quick Links
 
-- [Syllabus](./meta/syllabus.md) *(absence/make-up policy)*
-- [Canvas](https://rutgers.instructure.com/courses/381335){ target="_blank" rel="noopener noreferrer" }
-- [Gradebook](https://general.physics.rutgers.edu/cgi/student.pl?203&semester=spring2026){ target="_blank" rel="noopener noreferrer" }
+- [Syllabus](./meta/syllabus.md) — absence/make-up policy
+- [Canvas *[external link]*](https://rutgers.instructure.com/courses/381335){ target="_blank" rel="noopener noreferrer" } — Prof. Brahmia'a info/content/announcements
+- [Gradebook *[external link]*](https://general.physics.rutgers.edu/cgi/student.pl?203&semester=spring2026){ target="_blank" rel="noopener noreferrer" } — recitation grades

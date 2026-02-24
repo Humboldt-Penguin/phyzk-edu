@@ -1,5 +1,7 @@
 ---
 title: "Syllabus"
+hide:
+  - toc
 ---
 
 I distributed [paper copies](./phy203_syllabus_2026-Sp.pdf){ target="_blank" rel="noopener noreferrer" } of the syllabus on the first day of class. Here's a summary:
