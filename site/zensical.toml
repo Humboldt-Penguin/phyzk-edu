@@ -4,9 +4,6 @@ site_name = "Physics Labs/Recitations (Spring 2025)"
 site_description = "Coursework for Rutgers Physics labs/recitations."
 site_author = "Zain Kamal"
 
-# The site_url is the canonical URL for your site. When building online
-# documentation you should set this.
-# Read more: https://zensical.org/docs/setup/basics/#site_url
 site_url = "https://edu.phyzk.net/"
 
 docs_dir = "src"
@@ -39,10 +36,31 @@ nav = [
             "203/index.md",
             {"Meta" = [
                 {"Syllabus" = "203/meta/syllabus.md"},
-                {"Extra Resources" = "203/meta/resources.md"},
+                {"Helpful Resources" = "203/meta/resources.md"},
+            ]},
+            {"Announcements" = [
+                {"1 (Feb 22)" = "203/announcements/1.md"},
             ]},
             {"Weekly" = [
-                {"Week 4" = "203/week/4.md"},
+                # {"[4] Circular Motion" = "203/week/4.md"},
+                {"[5] Energy" = "203/week/5.md"},
+            ]},
+        ]},
+    ]},
+    {"PHY-205" = [
+        {"Overview" = [
+            "205/index.md",
+            {"Meta" = [
+                {"Syllabus" = "205/meta/syllabus.md"},
+            ]},
+            {"Announcements" = [
+                {"1 (Feb 22)" = "205/announcements/1.md"},
+            ]},
+            {"Labs" = [
+                {"[1] Intro to Experimentation" = "205/lab/1.md"},
+                {"[2] Kinematics" = "205/lab/2.md"},
+                {"[3] Newton's Laws I" = "205/lab/3.md"},
+                {"[4] Newton's Laws II" = "205/lab/4.md"},
             ]},
         ]},
     ]},
@@ -77,6 +95,21 @@ generic = true
 [project.markdown_extensions.pymdownx.caret]
 [project.markdown_extensions.pymdownx.mark]
 [project.markdown_extensions.pymdownx.tilde]
+
+
+## TOC, w/ permalinks
+##     https://zensical.org/docs/setup/extensions/python-markdown/#table-of-contents
+[project.markdown_extensions.toc]
+permalink = "⚓︎"
+
+
+## Admonitions
+##     https://zensical.org/docs/authoring/admonitions
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.superfences]
+
+
 
 
 
@@ -114,7 +147,6 @@ features = [
     # https://zensical.org/docs/setup/navigation/#navigation-expansion
     # "navigation.expand",
 
-    # zk note: ????????!!!!!!!
     # When section index pages are enabled, documents can be directly attached
     # to sections, which is particularly useful for providing overview pages.
     # https://zensical.org/docs/setup/navigation/#section-index-pages
@@ -167,9 +199,9 @@ toggle.name = "Switch to dark mode"
 # text = "Inter"
 
 [project.theme.icon]
-logo = "fontawesome/solid/frog"
+# logo = "fontawesome/solid/frog"
 # logo = "octicons/telescope-24"
-# logo = "lucide/telescope"
+logo = "lucide/telescope"
 
 
 [project.extra]
