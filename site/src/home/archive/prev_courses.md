@@ -1,6 +1,6 @@
 Coming soon :)
 
-&nbsp;
+<!-- &nbsp;
 
 &nbsp;
 
@@ -13,4 +13,4 @@ old courses
 - [rentry.co/phy205_12/](https://rentry.co/phy205_12){ target="_blank" rel="noopener noreferrer" }
 
 
-(probably include list of all courses taught, even if there's no website)
+(probably include list of all courses taught, even if there's no website) -->

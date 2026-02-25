@@ -34,12 +34,12 @@ nav = [
     {"PHY-203" = [
         {"Overview" = [
             "203/index.md",
-            {"Meta" = [
+            {"Course Info" = [
                 {"Syllabus" = "203/meta/syllabus.md"},
                 {"Helpful Resources" = "203/meta/resources.md"},
             ]},
             {"Announcements" = [
-                {"1 (Feb 22)" = "203/announcements/1.md"},
+                {"1 (Feb 24)" = "203/announcements/1.md"},
             ]},
             {"Weekly" = [
                 # {"[4] Circular Motion" = "203/week/4.md"},
@@ -50,11 +50,11 @@ nav = [
     {"PHY-205" = [
         {"Overview" = [
             "205/index.md",
-            {"Meta" = [
+            {"Course Info" = [
                 {"Syllabus" = "205/meta/syllabus.md"},
             ]},
             {"Announcements" = [
-                {"1 (Feb 22)" = "205/announcements/1.md"},
+                {"1 (Feb 24)" = "205/announcements/1.md"},
             ]},
             {"Labs" = [
                 {"[1] Intro to Experimentation" = "205/lab/1.md"},

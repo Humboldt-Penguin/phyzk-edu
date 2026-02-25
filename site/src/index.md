@@ -1,7 +1,7 @@
 ---
 title: "Overview"
-# hide:
-#   - toc
+hide:
+  - toc
 ---
 
 <!-- Don't display "title", but keep the "title" metadata in yaml or else page title becomes "index"
@@ -15,7 +15,7 @@ title: "Overview"
 
 Zain Kamal — [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu) &nbsp; &nbsp; *(I don't check Canvas messages)*
 
-- At the start of your email, please include your: [1] NetID, [2] course # *(e.g. "PHY203")*, and [3] section #.
+- At the start of your email, please include your: ^^[1] NetID^^, ^^[2] course #^^ *(e.g. "PHY203")*, and ^^[3] section #^^.
 
 - I am very, *very* bad at replying to emails. If I don't respond within one or two business days, absolutely feel free to email me again and again until I end up replying. I promise I'm not annoyed with you, just a skill issue on my part. Thanks :)
 
@@ -24,7 +24,7 @@ Zain Kamal — [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu)
 
 ## Office Hours
 
-I'm happy to meet with you to go over homework, prepare for upcoming exams, or explain entire concepts from scratch — just shoot me an email.
+I'm happy to meet with you to go over homework, prepare for upcoming exams/recitations, and/or explain entire concepts from scratch. Just shoot me an email.
 
 - **Time** — I'm typically free all of Saturday, Sunday, Monday, and Tuesday. If you really prefer Wednesday/Thursday/Friday, let me know what time specifically, and I can see if I can squeeze you in.
 

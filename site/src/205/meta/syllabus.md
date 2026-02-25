@@ -1,8 +1,10 @@
 ---
 title: "Syllabus"
+hide:
+  - toc
 ---
 
-The official course-wide syllabus is on Canvas ([mirror](https://files.catbox.moe/4p7e5a.pdf)).
+The official course-wide syllabus is on Canvas ([mirror](https://files.catbox.moe/4p7e5a.pdf){ target="_blank" rel="noopener noreferrer" }).
 
 &nbsp;
 
@@ -21,7 +23,7 @@ See bottom of page for schedule of all lab sections...
 - If I teach the section (M78, F12, or F34), you may attend without asking.
 - If another instructor teaches the section, you MUST email them to politely ask if you can attend their section. Please CC me on the email.
 
-??? note "Email template for make-up requests"
+??? abstract "Email template for make-up requests"
 
     Subject: [PHY205] Make-up Request
 
@@ -70,6 +72,14 @@ However, please try to avoid this if possible.
 
 ## [2] All Lab Sections
 
+??? info "Tip"
+    - Every day has four lab periods (except Friday):
+        - "12" = 8:30am - 11:30am
+        - "34" = 12:10pm - 3:10pm
+        - "56" = 3:50pm - 6:50pm
+        - "78" = 7:30pm - 10:30pm
+    - All labs are in HSB-210 (Douglass).
+    - I personally recommend my good friends Angie Ma, Chris Le, or Brian Lee! :)
 
 | Section # | Date/Time | Instructor       | Email                                                                   |
 | :-------: | :-------- | :--------------- | :---------------------------------------------------------------------- |
@@ -91,11 +101,3 @@ However, please try to avoid this if possible.
 |    15     | Th-78     | Brian Lee        | [bkl25@rutgers.edu](mailto:bkl25@rutgers.edu)                           |
 |    16     | F-12      | ==Zain Kamal==   | [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu)       |
 |    17     | F-34      | ==Zain Kamal==   | [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu)       |
-
-- Every day has four lab periods (except Friday):
-    - "12" = 8:30am - 11:30am
-    - "34" = 12:10pm - 3:10pm
-    - "56" = 3:50pm - 6:50pm
-    - "78" = 7:30pm - 10:30pm
-- All labs are in HSB-210 (Douglass).
-- I personally recommend my friends Angie Ma, Chris Le, or Brian Lee.
