@@ -1,6 +1,7 @@
 - [ ] 203: cleanup announcement 1
 - [ ] 205: copy over announcement 1 (w. slight mods)
 - [ ] 206: copy over 205 -- (AFTER SENDING TO ALL MY STUDENTS... unless i wanna include study session times...?)
+- [ ] main: ANON FEEDBACK FORM!!! (with shortlink, like "bit.ly/phyzk_feedback" or "edu.phyzk.net/feedback")
 
 
 

@@ -12,9 +12,9 @@ hide:
 
 ## [1] Announcements
 
-| [Date] | [Title/Link]                                     |
-| :----- | :----------------------------------------------- |
-| 2/22   | [1. Website & Study Sessions](./announcements/1.md) |
+| [Date] | [Title/Link]                                        |
+| :----- | :-------------------------------------------------- |
+| 2/24   | [1. Website & Study Sessions](./announcements/1.md) |
 
 
 ---

@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-The official course-wide syllabus is on Canvas ([mirror](https://files.catbox.moe/4p7e5a.pdf)).
+The official course-wide syllabus is on Canvas ([mirror](https://files.catbox.moe/4p7e5a.pdf){ target="_blank" rel="noopener noreferrer" }).
 
 &nbsp;
 
@@ -79,7 +79,7 @@ However, please try to avoid this if possible.
         - "56" = 3:50pm - 6:50pm
         - "78" = 7:30pm - 10:30pm
     - All labs are in HSB-210 (Douglass).
-    - I personally recommend my friends Angie Ma, Chris Le, or Brian Lee.
+    - I personally recommend my good friends Angie Ma, Chris Le, or Brian Lee! :)
 
 | Section # | Date/Time | Instructor       | Email                                                                   |
 | :-------: | :-------- | :--------------- | :---------------------------------------------------------------------- |

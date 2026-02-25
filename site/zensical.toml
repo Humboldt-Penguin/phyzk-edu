@@ -39,7 +39,7 @@ nav = [
                 {"Helpful Resources" = "203/meta/resources.md"},
             ]},
             {"Announcements" = [
-                {"1 (Feb 22)" = "203/announcements/1.md"},
+                {"1 (Feb 24)" = "203/announcements/1.md"},
             ]},
             {"Weekly" = [
                 # {"[4] Circular Motion" = "203/week/4.md"},
@@ -54,7 +54,7 @@ nav = [
                 {"Syllabus" = "205/meta/syllabus.md"},
             ]},
             {"Announcements" = [
-                {"1 (Feb 22)" = "205/announcements/1.md"},
+                {"1 (Feb 24)" = "205/announcements/1.md"},
             ]},
             {"Labs" = [
                 {"[1] Intro to Experimentation" = "205/lab/1.md"},
