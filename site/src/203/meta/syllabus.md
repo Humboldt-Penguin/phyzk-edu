@@ -36,4 +36,4 @@ I give partial credit, but you must write your work *fully* and *clearly*. (1)
     - You may attend either of the two sections I teach on Wednesday, just shoot me an email beforehand:
         - Section 29: Wednesday, 8:30am – 9:50am, LSH-B116 (Livingston)
         - Section 23: Wednesday, 2:00pm - 3:20pm, FOR-191B (Douglass)
-    - If you can't attend either of my sections, you need **prior** email approval from the Recitation Course Assistant, Shumaila Chishti ([sfc62@physics.rutgers.edu](mailto:sfc62@physics.rutgers.edu)). I recommend reaching out to her as soon as you think you'll miss a class, it can take 1-2 days for a response.
+    - If you can't attend either of my sections, you may attend another section taught by a different instructor. However, you need **prior** email approval from the Recitation Course Assistant, Shumaila Chishti ([sfc62@physics.rutgers.edu](mailto:sfc62@physics.rutgers.edu)). I recommend reaching out to her as soon as you think you'll miss a class, it can take 1-2 days for a response (please CC me on your email). She will tell you which sections are available.
