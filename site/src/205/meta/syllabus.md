@@ -20,7 +20,7 @@ Students must complete all 10 labs for credit. However, if you miss a class, you
 
 See bottom of page for schedule of all lab sections...
 
-- If I teach the section (M78, F12, or F34), you may attend without asking.
+- If I teach the section (W-78, F-12, or F-34), you may attend without asking.
 - If another instructor teaches the section, you MUST email them to politely ask if you can attend their section. Please CC me on the email.
 
 ??? abstract "Email template for make-up requests"
@@ -72,7 +72,7 @@ However, please try to avoid this if possible.
 
 ## [2] All Lab Sections
 
-??? info "Tip"
+??? info "Explanation of Lab Periods"
     - Every day has four lab periods (except Friday):
         - "12" = 8:30am - 11:30am
         - "34" = 12:10pm - 3:10pm

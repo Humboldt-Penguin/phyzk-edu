@@ -1,6 +1,19 @@
-- [ ] 203: cleanup announcement 1
-- [ ] 205: copy over announcement 1 (w. slight mods)
-- [ ] 206: copy over 205 -- (AFTER SENDING TO ALL MY STUDENTS... unless i wanna include study session times...?)
+- (all...)
+    - [ ] rename "weekly" to "content"/"resources"...? // move helpful resources into aforementioned // move syllabus to its own new page (thus deleting the "meta"/"course info" page)
+    - [ ] MAKE A DISCORD OR SOMETHING!!!!!!!!!!!!!!!! announcements gotta be hhhhella quicker!!!
+
+
+
+- [ ] 206...
+    - [ ] "resources.md"
+    - [ ] indiv lab pages!!!
+    - [ ] send announcement -- include lana kiddos! filled out my form :3 == ma2309 && jma472
+
+- [x] all...
+    - [x] ezpz method/diagram to find srn231 (lolz)
+
+
+
 - [ ] main: ANON FEEDBACK FORM!!! (with shortlink, like "bit.ly/phyzk_feedback" or "edu.phyzk.net/feedback")
 
 
