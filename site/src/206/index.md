@@ -1,14 +1,16 @@
 ---
-title: "General Physics 1 &nbsp; — &nbsp; Lab"
+title: "General Physics 2 &nbsp; — &nbsp; Lab"
 hide:
   - toc
 ---
 
 ## [1] Announcements
 
-| [Date] | [Title/Link]                                        |
+(will post more later)
+
+<!-- | [Date] | [Title/Link]                                        |
 | :----- | :-------------------------------------------------- |
-| 2/24   | [1. Website & Study Sessions](./announcements/1.md) |
+| 2/24   | [1. Website & Study Sessions](./announcements/1.md) | -->
 
 
 ---

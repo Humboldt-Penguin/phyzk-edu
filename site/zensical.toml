@@ -64,10 +64,24 @@ nav = [
             ]},
         ]},
     ]},
-    # {"PHY-205" = [
-    # ]},
-    # {"PHY-206" = [
-    # ]},
+    {"PHY-206" = [
+        {"Overview" = [
+            "206/index.md",
+            {"Course Info" = [
+                {"Syllabus" = "206/meta/syllabus.md"},
+                {"Helpful Resources" = "206/meta/resources.md"},
+            ]},
+            # {"Announcements" = [
+            #     {"1 (Feb 24)" = "206/announcements/1.md"},
+            # ]},
+            # {"Labs" = [
+            #     {"[1] Intro to Experimentation" = "206/lab/1.md"},
+            #     {"[2] Kinematics" = "206/lab/2.md"},
+            #     {"[3] Newton's Laws I" = "206/lab/3.md"},
+            #     {"[4] Newton's Laws II" = "206/lab/4.md"},
+            # ]},
+        ]},
+    ]},
 ]
 
 
