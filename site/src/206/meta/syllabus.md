@@ -71,7 +71,7 @@ However, please try to avoid this if possible.
 
 ## [2] All Lab Sections
 
-??? info "Tip"
+??? info "Explanation of Lab Periods"
     - Every day has four lab periods (except Friday):
         - "12" = 8:30am - 11:30am
         - "34" = 12:10pm - 3:10pm
