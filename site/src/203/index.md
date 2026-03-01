@@ -21,7 +21,7 @@ hide:
 |   2    | ~~2/4~~  | 2D Kinematics              |
 |   3    | ~~2/11~~ | Newton's Laws              |
 |   4    | ~~2/18~~ | Circular Motion            |
-|   5    |   2/25   | [Energy](  ./content/5.md) |
+|   5    | ~~2/25~~ | [Energy](  ./content/5.md) |
 |   6    |   3/4    | [Momentum](./content/6.md) |
 
 <!-- |   4    | ~~2/18~~ | [Circular Motion](./week/4.md) | -->
