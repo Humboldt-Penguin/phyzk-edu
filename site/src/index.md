@@ -30,6 +30,6 @@ I'm happy to meet with you to go over homework, prepare for upcoming exams/recit
 
 - **Location**...
 
-    - **In-person** — We can meet in the physics building on Busch *([Google Maps](https://maps.app.goo.gl/yA19HSBsptY817fG9){ target="_blank" rel="noopener noreferrer" })*, or the learning centers on any campus. I live two minutes away from Busch, but I don't mind driving to wherever is easiest for you.
+    - **In-person** (preferred) — We can meet in the physics building on Busch *([SRN-231](./hidden/SRN-231.md){ target="_blank" rel="noopener noreferrer" })*, or the learning centers on any campus. I live two minutes away from Busch, but I don't mind driving to wherever is easiest for you.
 
     - **Zoom** — [Join here](https://rutgers.zoom.us/j/8134552847?pwd=SWlOMmlZTm4yV2lDWGdsZFBLM0R2UT09){ target="_blank" rel="noopener noreferrer" }.

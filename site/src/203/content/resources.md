@@ -8,7 +8,7 @@ hide:
 
 ## Videos
 
-Check out the "Weekly" pages for videos tailored to each weeks' recitation. Most videos come from these two instructors, feel free to browse on your own if you're interested:
+Check out the weekly pages for videos tailored to each weeks' recitation. Most videos come from these two instructors, feel free to browse on your own if you're interested:
 
 1. [Yau-Jong Twu (YJT)](https://sites.google.com/site/twuphysicslessons/){ target="_blank" rel="noopener noreferrer" }
     - Tip: Navigate using the left sidebar, but ONLY select topics that say "AP Physics 1" *(i.e. not "AP Physics 2" or "AP Physics C")*.
