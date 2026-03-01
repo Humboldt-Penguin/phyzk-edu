@@ -12,9 +12,9 @@ hide:
 
 ## [1] Announcements
 
-| [Date] | [Title/Link]                                        |
-| :----- | :-------------------------------------------------- |
-| 2/24   | [1. Website & Study Sessions](./announcements/1.md) |
+| [Date] | [Title/Link]                                           |
+| :----- | :----------------------------------------------------- |
+| 2/24   | [1. Website & Study Sessions](./announcements/2-24.md) |
 
 
 ---
@@ -43,6 +43,6 @@ hide:
 
 ## [3] Quick Links
 
-- [Syllabus](./meta/syllabus.md) — absence/make-up policy
+- [Syllabus](./syllabus.md) — absence/make-up policy
 - [Canvas *[external link]*](https://rutgers.instructure.com/courses/381575){ target="_blank" rel="noopener noreferrer" } — course-wide info/announcements
 - [Gradebook *[external link]*](https://gbook.physics.rutgers.edu/gbook/student.pl?205&semester=spring2026){ target="_blank" rel="noopener noreferrer" } — lab/quiz grades
