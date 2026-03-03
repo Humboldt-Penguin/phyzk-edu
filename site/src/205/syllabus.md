@@ -83,21 +83,21 @@ However, please try to avoid this if possible.
 
 | Section # | Date/Time | Instructor       | Email                                                                   |
 | :-------: | :-------- | :--------------- | :---------------------------------------------------------------------- |
-|    18     | M-12      | Gabriel Alba     | [alba@scarletmail.rutgers.edu](mailto:alba@scarletmail.rutgers.edu)     |
+|    18     | M-12      | Gabriel Alba     | [alba@scarletmail.rutgers.edu]  (mailto:alba@scarletmail.rutgers.edu)   |
 |     1     | M-34      | Chris Le         | [cl1438@scarletmail.rutgers.edu](mailto:cl1438@scarletmail.rutgers.edu) |
 |     2     | M-56      | Chris Le         | [cl1438@scarletmail.rutgers.edu](mailto:cl1438@scarletmail.rutgers.edu) |
-|     3     | M-78      | Edward Marici    | [epm114@physics.rutgers.edu](mailto:epm114@physics.rutgers.edu)         |
+|     3     | M-78      | Edward Marici    | [epm114@physics.rutgers.edu]    (mailto:epm114@physics.rutgers.edu)     |
 |     4     | T-12      | Angie (Shiqi) Ma | [sm1977@scarletmail.rutgers.edu](mailto:sm1977@scarletmail.rutgers.edu) |
 |     5     | T-34      | Angie (Shiqi) Ma | [sm1977@scarletmail.rutgers.edu](mailto:sm1977@scarletmail.rutgers.edu) |
-|     6     | T-56      | Edward Marici    | [epm114@physics.rutgers.edu](mailto:epm114@physics.rutgers.edu)         |
+|     6     | T-56      | Edward Marici    | [epm114@physics.rutgers.edu]    (mailto:epm114@physics.rutgers.edu)     |
 |     7     | T-78      | Angie (Shiqi) Ma | [sm1977@scarletmail.rutgers.edu](mailto:sm1977@scarletmail.rutgers.edu) |
-|     8     | W-12      | Gabriel Alba     | [alba@scarletmail.rutgers.edu](mailto:alba@scarletmail.rutgers.edu)     |
+|     8     | W-12      | Gabriel Alba     | [alba@scarletmail.rutgers.edu]  (mailto:alba@scarletmail.rutgers.edu)   |
 |     9     | W-34      | Chris Le         | [cl1438@scarletmail.rutgers.edu](mailto:cl1438@scarletmail.rutgers.edu) |
 |    10     | W-56      | Chris Le         | [cl1438@scarletmail.rutgers.edu](mailto:cl1438@scarletmail.rutgers.edu) |
-|    11     | W-78      | ==Zain Kamal==   | [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu)       |
-|    12     | Th-12     | Eric Mendelsohn  | [ejm193@eps.rutgers.edu](mailto:ejm193@eps.rutgers.edu)                 |
+|    11     | W-78      | ==Zain Kamal==   | [zain.eris.kamal@rutgers.edu]   (mailto:zain.eris.kamal@rutgers.edu)    |
+|    12     | Th-12     | Eric Mendelsohn  | [ejm193@eps.rutgers.edu]        (mailto:ejm193@eps.rutgers.edu)         |
 |    13     | Th-34     | Chris Le         | [cl1438@scarletmail.rutgers.edu](mailto:cl1438@scarletmail.rutgers.edu) |
-|    14     | Th-56     | Brian Lee        | [bkl25@rutgers.edu](mailto:bkl25@rutgers.edu)                           |
-|    15     | Th-78     | Brian Lee        | [bkl25@rutgers.edu](mailto:bkl25@rutgers.edu)                           |
-|    16     | F-12      | ==Zain Kamal==   | [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu)       |
-|    17     | F-34      | ==Zain Kamal==   | [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu)       |
+|    14     | Th-56     | Brian Lee        | [bkl25@rutgers.edu]             (mailto:bkl25@rutgers.edu)              |
+|    15     | Th-78     | Brian Lee        | [bkl25@rutgers.edu]             (mailto:bkl25@rutgers.edu)              |
+|    16     | F-12      | ==Zain Kamal==   | [zain.eris.kamal@rutgers.edu]   (mailto:zain.eris.kamal@rutgers.edu)    |
+|    17     | F-34      | ==Zain Kamal==   | [zain.eris.kamal@rutgers.edu]   (mailto:zain.eris.kamal@rutgers.edu)    |

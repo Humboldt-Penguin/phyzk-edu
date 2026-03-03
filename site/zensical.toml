@@ -34,33 +34,30 @@ nav = [
     {"PHY-203" = [
         {"Overview" = [
             "203/index.md",
-            {"Course Info" = [
-                {"Syllabus" = "203/meta/syllabus.md"},
-                {"Helpful Resources" = "203/meta/resources.md"},
-            ]},
+            {"Syllabus" = "203/syllabus.md"},
             {"Announcements" = [
-                {"1 (Feb 24)" = "203/announcements/1.md"},
+                {"1 (Feb 24)" = "203/announcements/2-24.md"},
             ]},
-            {"Weekly" = [
-                # {"[4] Circular Motion" = "203/week/4.md"},
-                {"[5] Energy" = "203/week/5.md"},
+            {"Content" = [
+                {"Helpful Resources"   = "203/content/resources.md"},
+                # {"[4] Circular Motion" = "203/content/4.md"},
+                {"[5] Energy"          = "203/content/5.md"},
+                {"[6] Momentum"        = "203/content/6.md"},
             ]},
         ]},
     ]},
     {"PHY-205" = [
         {"Overview" = [
             "205/index.md",
-            {"Course Info" = [
-                {"Syllabus" = "205/meta/syllabus.md"},
-            ]},
+            {"Syllabus" = "205/syllabus.md"},
             {"Announcements" = [
-                {"1 (Feb 24)" = "205/announcements/1.md"},
+                {"1 (Feb 24)" = "205/announcements/2-24.md"},
             ]},
             {"Labs" = [
                 {"[1] Intro to Experimentation" = "205/lab/1.md"},
-                {"[2] Kinematics" = "205/lab/2.md"},
-                {"[3] Newton's Laws I" = "205/lab/3.md"},
-                {"[4] Newton's Laws II" = "205/lab/4.md"},
+                {"[2] Kinematics"               = "205/lab/2.md"},
+                {"[3] Newton's Laws I"          = "205/lab/3.md"},
+                {"[4] Newton's Laws II"         = "205/lab/4.md"},
             ]},
         ]},
     ]},
