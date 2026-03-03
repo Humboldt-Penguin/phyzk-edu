@@ -40,7 +40,7 @@ nav = [
             ]},
             {"Content" = [
                 {"Helpful Resources"   = "203/content/resources.md"},
-                {"[4] Circular Motion" = "203/content/4.md"},
+                # {"[4] Circular Motion" = "203/content/4.md"},
                 {"[5] Energy"          = "203/content/5.md"},
                 {"[6] Momentum"        = "203/content/6.md"},
             ]},
