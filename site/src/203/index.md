@@ -9,6 +9,7 @@ hide:
 | [Date] | [Title/Link]                                           |
 | :----- | :----------------------------------------------------- |
 | 2/24   | [1. Website & Study Sessions](./announcements/2-24.md) |
+| 3/08   | [2. Exam 1 Reflections      ](./announcements/3-08.md) |
 
 
 ---
@@ -22,7 +23,9 @@ hide:
 |   3    | ~~2/11~~ | Newton's Laws              |
 |   4    | ~~2/18~~ | Circular Motion            |
 |   5    | ~~2/25~~ | [Energy](  ./content/5.md) |
-|   6    |   3/4    | [Momentum](./content/6.md) |
+|   6    | ~~3/4~~  | [Momentum](./content/6.md) |
+|   7    |   3/11   | [Rotation](./content/7.md) |
+
 
 <!-- |   4    | ~~2/18~~ | [Circular Motion](./week/4.md) | -->
 
