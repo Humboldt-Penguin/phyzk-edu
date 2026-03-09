@@ -13,7 +13,7 @@ hide:
 
 ## Contact Info
 
-Zain Kamal — [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu) &nbsp; &nbsp; *(I don't check Canvas messages)*
+Zain Kamal — [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu) &nbsp; &nbsp; *(I'm not notified when someone messages me on Canvas)*
 
 - At the start of your email, please include your: ^^[1] NetID^^, ^^[2] course #^^ *(e.g. "PHY203")*, and ^^[3] section #^^.
 

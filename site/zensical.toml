@@ -26,6 +26,7 @@ nav = [
                 {"Learn Computational Physics" = "home/ec/learn_comp_phy.md"},
             ]},
             {"Archive" = [
+                {"Nice Things" = "home/archive/nice_things.md"},
                 {"Previous Courses" = "home/archive/prev_courses.md"},
             ]},
         ]},
@@ -37,12 +38,14 @@ nav = [
             {"Syllabus" = "203/syllabus.md"},
             {"Announcements" = [
                 {"1 (Feb 24)" = "203/announcements/2-24.md"},
+                {"2 (Mar 08)" = "203/announcements/3-08.md"},
             ]},
             {"Content" = [
                 {"Helpful Resources"   = "203/content/resources.md"},
                 # {"[4] Circular Motion" = "203/content/4.md"},
                 {"[5] Energy"          = "203/content/5.md"},
                 {"[6] Momentum"        = "203/content/6.md"},
+                {"[7] Rotation"        = "203/content/7.md"},
             ]},
         ]},
     ]},
@@ -51,7 +54,7 @@ nav = [
             "205/index.md",
             {"Syllabus" = "205/syllabus.md"},
             {"Announcements" = [
-                {"1 (Feb 24)" = "205/announcements/2-24.md"},
+                {"1 (Feb. 24)" = "205/announcements/2-24.md"},
             ]},
             {"Labs" = [
                 {"[1] Intro to Experimentation" = "205/lab/1.md"},

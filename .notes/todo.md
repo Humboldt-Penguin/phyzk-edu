@@ -1,5 +1,5 @@
 - (all...)
-    - [ ] rename "weekly" to "content"/"resources"...? // move helpful resources into aforementioned // move syllabus to its own new page (thus deleting the "meta"/"course info" page)
+    - [x] rename "weekly" to "content"/"resources"...? // move helpful resources into aforementioned // move syllabus to its own new page (thus deleting the "meta"/"course info" page)
     - [ ] MAKE A DISCORD OR SOMETHING!!!!!!!!!!!!!!!! announcements gotta be hhhhella quicker!!!
 
 
