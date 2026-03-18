@@ -61,6 +61,8 @@ nav = [
                 {"[2] Kinematics"               = "205/lab/2.md"},
                 {"[3] Newton's Laws I"          = "205/lab/3.md"},
                 {"[4] Newton's Laws II"         = "205/lab/4.md"},
+                {"[5] Circular Motion, Energy"  = "205/lab/5.md"},
+                {"[6] Linear Momentum"          = "205/lab/6.md"},
             ]},
         ]},
     ]},
@@ -74,12 +76,14 @@ nav = [
             # {"Announcements" = [
             #     {"1 (Feb 24)" = "206/announcements/1.md"},
             # ]},
-            # {"Labs" = [
-            #     {"[1] Intro to Experimentation" = "206/lab/1.md"},
-            #     {"[2] Kinematics" = "206/lab/2.md"},
-            #     {"[3] Newton's Laws I" = "206/lab/3.md"},
-            #     {"[4] Newton's Laws II" = "206/lab/4.md"},
-            # ]},
+            {"Labs" = [
+                {"[1] Electrostatics I"  = "206/lab/1.md"},
+                {"[2] Electrostatics II" = "206/lab/2.md"},
+                {"[3] DC Circuits"       = "206/lab/3.md"},
+                {"[4] Capacitance"       = "206/lab/4.md"},
+                {"[5] Magnetism I"       = "206/lab/5.md"},
+                {"[6] Magnetism II"      = "206/lab/6.md"},
+            ]},
         ]},
     ]},
 ]
