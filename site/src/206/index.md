@@ -24,9 +24,9 @@ hide:
 |   3    |     2/2      | [2. Electrostatics II](./lab/2.md) |
 |   4    |     2/9      | [3. DC Circuits      ](./lab/3.md) |
 |   5    |     2/16     | [4. Capacitance      ](./lab/4.md) |
+|   6    |     2/23     | *— NO LAB (exam week!)—*           |
 |   7    |     3/2      | [5. Magnetism I      ](./lab/5.md) |
 |   8    |     3/9      | [6. Magnetism II     ](./lab/6.md) |
-|   6    |     2/23     | ==— NO LAB (exam week!)—==         |
 |   9    |     3/16     | *— NO LAB (spring break!)—*        |
 |   10   |     3/23     | 7. Geometric Optics                |
 |   11   |     3/30     | 8. Light Wave Interference         |

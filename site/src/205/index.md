@@ -28,7 +28,7 @@ hide:
 |   3    |     2/02     | [2. Kinematics              ](./lab/2.md) |
 |   4    |     2/09     | [3. Newton's Laws I         ](./lab/3.md) |
 |   5    |     2/16     | [4. Newton's Laws II        ](./lab/4.md) |
-|   6    |     2/23     | ==— NO LAB (exam week!)—==                |
+|   6    |     2/23     | *— NO LAB (exam week!)—*                  |
 |   7    |     3/02     | [5. Circular Motion, Energy ](./lab/5.md) |
 |   8    |     3/09     | [6. Linear Momentum         ](./lab/6.md) |
 |   9    |     3/16     | *— NO LAB (spring break!)—*               |
