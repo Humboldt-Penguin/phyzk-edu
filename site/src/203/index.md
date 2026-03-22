@@ -16,15 +16,16 @@ hide:
 
 ## [2] Recitation Schedule
 
-| [Week] |  [Date]  | [Topic]                    |
-| :----: | :------: | :------------------------- |
-|   1    | ~~1/28~~ | Vectors; 1D Kinematics     |
-|   2    | ~~2/4~~  | 2D Kinematics              |
-|   3    | ~~2/11~~ | Newton's Laws              |
-|   4    | ~~2/18~~ | Circular Motion            |
-|   5    | ~~2/25~~ | [Energy](  ./content/5.md) |
-|   6    | ~~3/4~~  | [Momentum](./content/6.md) |
-|   7    |   3/11   | [Rotation](./content/7.md) |
+| [Week] |  [Date]  | [Topic]                                 |
+| :----: | :------: | :-------------------------------------- |
+|   1    | ~~1/28~~ | Vectors; 1D Kinematics                  |
+|   2    | ~~2/4~~  | 2D Kinematics                           |
+|   3    | ~~2/11~~ | Newton's Laws                           |
+|   4    | ~~2/18~~ | Circular Motion                         |
+|   5    | ~~2/25~~ | [Energy               ](./content/5.md) |
+|   6    | ~~3/4~~  | [Momentum             ](./content/6.md) |
+|   7    | ~~3/11~~ | [Rotation I           ](./content/7.md) |
+|   8    |   3/25   | [Rotation II & Springs](./content/8.md) |
 
 
 <!-- |   4    | ~~2/18~~ | [Circular Motion](./week/4.md) | -->
