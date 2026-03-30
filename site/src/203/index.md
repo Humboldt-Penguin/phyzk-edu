@@ -6,10 +6,11 @@ hide:
 
 ## [1] Announcements
 
-| [Date] | [Title/Link]                                           |
-| :----- | :----------------------------------------------------- |
-| 2/24   | [1. Website & Study Sessions](./announcements/2-24.md) |
-| 3/08   | [2. Exam 1 Reflections      ](./announcements/3-08.md) |
+| [Date] | [Title/Link]                                                           |
+| :----- | :--------------------------------------------------------------------- |
+| 2/24   | [1. Website & Study Sessions                ](./announcements/2-24.md) |
+| 3/08   | [2. Exam 1 Reflections                      ](./announcements/3-08.md) |
+| 3/29   | [3. Exam 2 Practice Problems & Study Session](./announcements/3-29.md) |
 
 
 ---

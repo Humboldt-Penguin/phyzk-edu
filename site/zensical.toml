@@ -39,6 +39,7 @@ nav = [
             {"Announcements" = [
                 {"1 (Feb 24)" = "203/announcements/2-24.md"},
                 {"2 (Mar 08)" = "203/announcements/3-08.md"},
+                {"3 (Mar 29)" = "203/announcements/3-29.md"},
             ]},
             {"Content" = [
                 {"Helpful Resources" = "203/content/resources.md"},
@@ -47,6 +48,7 @@ nav = [
                 {"[6] Momentum"              = "203/content/6.md"},
                 {"[7] Rotation I"            = "203/content/7.md"},
                 {"[8] Rotation II & Springs" = "203/content/8.md"},
+                {"Exam 2 Review"             = "203/content/exam2.md"},
             ]},
         ]},
     ]},

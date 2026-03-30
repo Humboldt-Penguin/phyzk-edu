@@ -22,6 +22,9 @@ Check out the weekly pages for videos tailored to each weeks' recitation. Most v
 
 ## Written
 
-1. [2/22] [Here are my AP Physics 1 notes from high school](https://drive.google.com/file/d/1MfRsPAS2A1e7dyz-pSSueYD1zQYcO8tN/view){ target="_blank" rel="noopener noreferrer" }.
+1. [2/22]: [Here are my AP Physics 1 notes from high school](https://drive.google.com/file/d/1MfRsPAS2A1e7dyz-pSSueYD1zQYcO8tN/view){ target="_blank" rel="noopener noreferrer" }.
 
 2. [2/24]: Another recitation instructor for PHY-203 *(and my friend/roommate during undergrad!)* wrote an 11-page ["Quick Review of Algebra"](https://www.anishsuresh.com/teaching/phy203-spring-2026){ target="_blank" rel="noopener noreferrer" } to help his students brush up on algebra skills before the first exam.
+
+3. [3/29]: Following up on the previous bullet point, Anish also wrote up ["A Review of Rotational Motion"](https://drive.google.com/file/d/1CejkaPqWO7kk81zJeOSrbtcamXQ75XP0/view){ target="_blank" rel="noopener noreferrer" }.
+    - *If the link above doesn't work, try [this](https://www.anishsuresh.com/teaching/phy203-spring-2026){ target="_blank" rel="noopener noreferrer" }*
