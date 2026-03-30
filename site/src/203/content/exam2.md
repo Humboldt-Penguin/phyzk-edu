@@ -4,11 +4,18 @@ title: "Exam 2 Practice Problems"
 #     - toc
 ---
 
-^^TIPS:^^
+**^^TIPS:^^**
 
 - If you want to print these questions, simply press `Ctrl + P` while on this page, and it should come out formatted nicely.
+    - ==UPDATE: [click here](../files/phy203_exam2_45practice_NO-SOLS.pdf){ target="_blank" rel="noopener noreferrer" }
+    for a PDF of these questions WITHOUT solutions *(this reduces the page count from 37 to 9)*.==
+    <!--
+    regex for all solution admonition blocks: ^ {4}\?\?\?\s+success\s+"Solution"\r?\n(?: {8}.*\r?\n|\r?\n)*
+     -->
 - If any of the math content isn't rendering properly, please refresh the page and it should be fixed.
-    - *(e.g. you see something like `$v=\sqrt{2gh}$` instead of $v=\sqrt{2gh}$)*
+    - *(e.g. you see something like `$\frac{1}{2}mv^2$` instead of $\frac{1}{2}mv^2$)*
+
+&nbsp;
 
 ---
 
@@ -43,8 +50,6 @@ title: "Exam 2 Practice Problems"
     - [[5.2] Energy in SHM](#52-energy-in-shm)
 - [[6] Mixed Exam-Style / Multi-Concept Review](#6-mixed-exam-style--multi-concept-review)
 -->
-
-&nbsp;
 
 ---
 
