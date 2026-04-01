@@ -42,13 +42,15 @@ nav = [
                 {"3 (Mar 29)" = "203/announcements/3-29.md"},
             ]},
             {"Content" = [
-                {"Helpful Resources" = "203/content/resources.md"},
                 # {"[4] Circular Motion" = "203/content/4.md"},
+                {"— Helpful Resources"       = "203/content/resources.md"},
                 {"[5] Energy"                = "203/content/5.md"},
                 {"[6] Momentum"              = "203/content/6.md"},
                 {"[7] Rotation I"            = "203/content/7.md"},
                 {"[8] Rotation II & Springs" = "203/content/8.md"},
-                {"Exam 2 Review"             = "203/content/exam2.md"},
+                {"— Exam 2 Review"           = "203/content/exam2.md"},
+                # {"— Tips for Work/Energy"    = "203/content/5-tips.md"},
+                {"[9] Fluids & Pressure"     = "203/content/9.md"},
             ]},
         ]},
     ]},
@@ -220,9 +222,9 @@ toggle.name = "Switch to dark mode"
 # text = "Inter"
 
 [project.theme.icon]
-# logo = "fontawesome/solid/frog"
+logo = "fontawesome/solid/frog"
 # logo = "octicons/telescope-24"
-logo = "lucide/telescope"
+# logo = "lucide/telescope"
 
 
 [project.extra]
