@@ -229,3 +229,10 @@ logo = "fontawesome/solid/frog"
 
 [project.extra]
 generator = false
+
+
+
+## Analytics
+[project.extra.analytics]
+provider = "google"
+property = "G-B47LZK9B7D"
