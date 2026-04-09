@@ -72,7 +72,7 @@ However, please try to avoid this if possible.
 
 ---
 
-## [2] All Lab Sections
+## [2] All Lab Sections (for option 1)
 
 ??? info "Explanation of Lab Periods"
     - Every day has four lab periods (except Friday):
