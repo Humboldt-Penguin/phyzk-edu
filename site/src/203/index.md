@@ -28,7 +28,8 @@ hide:
 |   7    | ~~3/11~~ | [Rotation I           ](./content/7.md)  |
 |   8    | ~~3/25~~ | [Rotation II & Springs](./content/8.md)  |
 |   9    | ~~4/01~~ | [Fluids & Pressure    ](./content/9.md)  |
-|   10   |   4/08   | [Thermal Physics      ](./content/10.md) |
+|   10   | ~~4/08~~ | [Thermal Physics      ](./content/10.md) |
+|   11   |   4/15   | [Ideal Gases          ](./content/11.md) |
 
 
 ---
