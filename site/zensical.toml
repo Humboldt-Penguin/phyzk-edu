@@ -53,6 +53,7 @@ nav = [
                 {"[9] Fluids & Pressure"     = "203/content/9.md"},
                 {"[10] Thermal Physics"      = "203/content/10.md"},
                 {"[11] Ideal Gases"          = "203/content/11.md"},
+                {"[12] Thermodynamics"       = "203/content/12.md"},
             ]},
         ]},
     ]},
