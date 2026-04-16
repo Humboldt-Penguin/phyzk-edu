@@ -92,6 +92,7 @@ nav = [
                 {"[5] Magnetism I"       = "206/lab/5.md"},
                 {"[6] Magnetism II"      = "206/lab/6.md"},
             ]},
+            {"Week 12: Nuclear Physics" = "206/12.md"},
         ]},
     ]},
 ]
