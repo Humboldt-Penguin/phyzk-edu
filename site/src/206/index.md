@@ -20,7 +20,7 @@ hide:
 | [Week] | [Week of...] | [Lab]                              |
 | :----: | :----------: | :--------------------------------- |
 |   1    |     1/19     | *— NO LAB—*                        |
-|   2    |     1/26     | [1. Electrostatics I ](./lab/1.md) |
+|   2    |     1/26     | 1. Electrostatics I                |
 |   3    |     2/2      | [2. Electrostatics II](./lab/2.md) |
 |   4    |     2/9      | [3. DC Circuits      ](./lab/3.md) |
 |   5    |     2/16     | [4. Capacitance      ](./lab/4.md) |
@@ -39,6 +39,6 @@ hide:
 
 ## [3] Quick Links
 
-- [Syllabus](./meta/syllabus.md) — absence/make-up policy
+- [Syllabus](./syllabus.md) — absence/make-up policy
 - [Canvas *[external link]*](https://rutgers.instructure.com/courses/381692){ target="_blank" rel="noopener noreferrer" } — course-wide info/announcements
 - [Gradebook *[external link]*](https://gbook.physics.rutgers.edu/gbook/student.pl?206&semester=spring2026){ target="_blank" rel="noopener noreferrer" } — lab/quiz grades

@@ -24,7 +24,7 @@ hide:
 | [Week] | [Week of...] | [Lab]                                     |
 | :----: | :----------: | :---------------------------------------- |
 |   1    |     1/19     | *— NO LAB—*                               |
-|   2    |     1/26     | [1. Intro to Experimentation](./lab/1.md) |
+|   2    |     1/26     | 1. Intro to Experimentation               |
 |   3    |     2/02     | [2. Kinematics              ](./lab/2.md) |
 |   4    |     2/09     | [3. Newton's Laws I         ](./lab/3.md) |
 |   5    |     2/16     | [4. Newton's Laws II        ](./lab/4.md) |
@@ -34,8 +34,8 @@ hide:
 |   9    |     3/16     | *— NO LAB (spring break!)—*               |
 |   10   |     3/23     | 7. Rotational Dynamics                    |
 |   11   |     3/30     | *— NO LAB—*                               |
-|   12   |     4/06     | 8. Fluids                                 |
-|   13   |     4/13     | 9. Thermodynamics                         |
+|   12   |     4/06     | [8. Fluids                  ](./lab/8.md) |
+|   13   |     4/13     | [9. Thermodynamics          ](./lab/9.md) |
 |   14   |     4/20     | 10. Waves                                 |
 |   15   |     4/27     | *Make-up labs*                            |
 
