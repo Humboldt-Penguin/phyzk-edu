@@ -54,6 +54,7 @@ nav = [
                 {"[10] Thermal Physics"      = "203/content/10.md"},
                 {"[11] Ideal Gases"          = "203/content/11.md"},
                 {"[12] Thermodynamics"       = "203/content/12.md"},
+                {"[13] Waves & Sound"        = "203/content/13.md"},
             ]},
         ]},
     ]},

@@ -31,6 +31,7 @@ hide:
 |   10   |  4/08  | [Thermal Physics      ](./content/10.md) |
 |   11   |  4/15  | [Ideal Gases          ](./content/11.md) |
 |   12   |  4/22  | [Thermodynamics       ](./content/12.md) |
+|   13   |  4/29  | [Waves & Sound        ](./content/13.md) |
 
 
 ---
