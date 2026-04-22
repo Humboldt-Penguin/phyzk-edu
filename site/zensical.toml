@@ -54,6 +54,7 @@ nav = [
                 {"[10] Thermal Physics"      = "203/content/10.md"},
                 {"[11] Ideal Gases"          = "203/content/11.md"},
                 {"[12] Thermodynamics"       = "203/content/12.md"},
+                {"[13] Waves & Sound"        = "203/content/13.md"},
             ]},
         ]},
     ]},
@@ -65,34 +66,38 @@ nav = [
                 {"1 (Feb. 24)" = "205/announcements/2-24.md"},
             ]},
             {"Labs" = [
-                {"[1] Intro to Experimentation" = "205/lab/1.md"},
                 {"[2] Kinematics"               = "205/lab/2.md"},
                 {"[3] Newton's Laws I"          = "205/lab/3.md"},
                 {"[4] Newton's Laws II"         = "205/lab/4.md"},
                 {"[5] Circular Motion, Energy"  = "205/lab/5.md"},
                 {"[6] Linear Momentum"          = "205/lab/6.md"},
+                {"[8] Pressure & Fluids"        = "205/lab/8.md"},
+                {"[9] Thermodynamics"           = "205/lab/9.md"},
             ]},
         ]},
     ]},
     {"PHY-206" = [
         {"Overview" = [
             "206/index.md",
-            {"Course Info" = [
-                {"Syllabus" = "206/meta/syllabus.md"},
-                {"Helpful Resources" = "206/meta/resources.md"},
-            ]},
+            {"Syllabus" = "206/syllabus.md"},
             # {"Announcements" = [
-            #     {"1 (Feb 24)" = "206/announcements/1.md"},
+            #     {"1 (Feb. 24)" = "206/announcements/2-24.md"},
             # ]},
             {"Labs" = [
-                {"[1] Electrostatics I"  = "206/lab/1.md"},
                 {"[2] Electrostatics II" = "206/lab/2.md"},
                 {"[3] DC Circuits"       = "206/lab/3.md"},
                 {"[4] Capacitance"       = "206/lab/4.md"},
                 {"[5] Magnetism I"       = "206/lab/5.md"},
                 {"[6] Magnetism II"      = "206/lab/6.md"},
+                # {"[7] Geometric Optics"  = "206/lab/7.md"},
+                # {"[8] Interference"      = "206/lab/8.md"},
             ]},
-            {"Week 12: Nuclear Physics" = "206/12.md"},
+            {"Recitations" = [
+                {"— Helpful Resources" = "206/rec/resources.md"},
+                # {"[] " = "206/rec/1.md"},
+                {"[12] Nuclear Physics" = "206/rec/12.md"},
+            ]},
+
         ]},
     ]},
 ]
