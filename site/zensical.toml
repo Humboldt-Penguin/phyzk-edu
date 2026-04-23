@@ -96,6 +96,7 @@ nav = [
                 {"— Helpful Resources" = "206/rec/resources.md"},
                 # {"[] " = "206/rec/1.md"},
                 {"[12] Nuclear Physics" = "206/rec/12.md"},
+                {"[13] Radioactive Decay & Nuclear Reactions" = "206/rec/13.md"},
             ]},
 
         ]},
