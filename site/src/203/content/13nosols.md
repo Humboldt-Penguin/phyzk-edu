@@ -4,6 +4,8 @@ hide:
   - toc
 ---
 
+For solutions, please visit: [edu.phyzk.net/203/content/13](./13.md)
+
 ==$\Delta$ ← if you see the word "Delta" instead of a triangle, please refresh the page! Thanks :)==
 
 &nbsp;
